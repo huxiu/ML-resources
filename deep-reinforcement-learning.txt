@@ -1,10 +1,22 @@
 # 基础知识：
 
-# 相关书籍：
-1，网上流传最广的，Richard and Andrew 写的PDF书：https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html
-
 # 相关课程：
 1，伦敦大学RL公开课程：http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html
 
-# 最新进展：
+# 科技界最新进展：
 1，deepmind最新的Qnet介绍：http://blog.csdn.net/songrotek/article/details/50917286
+
+# 经典论文：
+
+1, junhyukoh总结的论文集合：
+https://github.com/junhyukoh/deep-reinforcement-learning-papers
+
+2, muupan总结的论文集合：
+https://github.com/muupan/deep-reinforcement-learning-papers
+
+3, 其它重点文章：
+
+通过局部信息自我学习的RL方法:
+http://101.96.8.165/www0.cs.ucl.ac.uk/staff/D.Silver/web/Applications_files/nfsp.pdf
+
+

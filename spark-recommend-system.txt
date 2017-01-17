@@ -1,0 +1,9 @@
+TF-IDF:
+http://spark.apache.org/docs/latest/ml-features.html#tf-idf
+
+基于SVD的内容相关推荐：
+http://spark.apache.org/docs/latest/mllib-dimensionality-reduction.html
+
+基于ALS的用户行为相关推荐：
+https://databricks-training.s3.amazonaws.com/movie-recommendation-with-mllib.html
+http://spark.apache.org/docs/latest/mllib-collaborative-filtering.html

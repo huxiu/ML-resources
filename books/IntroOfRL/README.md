@@ -1,7 +1,9 @@
 Reinforcement Learning: An Introduction
-Richard S. Sutton
-and Andrew G. Barto
+
+Richard S. Sutton and Andrew G. Barto
+
 Second Edition, in progress
+
 MIT Press, Cambridge, MA, 2017
 
 New Code: https://github.com/ShangtongZhang/reinforcement-learning-an-introduction

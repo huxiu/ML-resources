@@ -1,1 +1,6 @@
+# 基础知识：
+# 相关课程：
+1，伦敦大学RL公开课程：http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html
 
+# 最新进展：
+1，deepmind最新的Qnet介绍：http://blog.csdn.net/songrotek/article/details/50917286

@@ -1,4 +1,8 @@
 # 基础知识：
+
+# 相关书籍：
+1，网上流传最广的，Richard and Andrew 写的PDF书：https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html
+
 # 相关课程：
 1，伦敦大学RL公开课程：http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html
 

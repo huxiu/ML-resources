@@ -3,3 +3,6 @@ http://blog.csdn.net/heiyeshuwu/article/details/44117473
 
 自动摘要：
 http://www.ruanyifeng.com/blog/2013/03/automatic_summarization.html
+
+google 的自动摘要生成模型：
+https://github.com/tensorflow/models/tree/master/textsum

@@ -19,4 +19,5 @@ https://github.com/muupan/deep-reinforcement-learning-papers
 通过局部信息自我学习的RL方法:
 http://101.96.8.165/www0.cs.ucl.ac.uk/staff/D.Silver/web/Applications_files/nfsp.pdf
 
-
+目前deepmind公开最好的算法：
+https://arxiv.org/pdf/1602.01783.pdf

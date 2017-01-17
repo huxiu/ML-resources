@@ -1,0 +1,5 @@
+文档去重：
+http://blog.csdn.net/heiyeshuwu/article/details/44117473
+
+自动摘要：
+http://www.ruanyifeng.com/blog/2013/03/automatic_summarization.html

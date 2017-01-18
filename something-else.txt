@@ -19,3 +19,6 @@
 
 6 keras，Python搭建神经网络的集成环境
 中文地址：https://keras-cn.readthedocs.io/en/latest/
+
+7 一个讲解机器学习原理的博客
+http://colah.github.io/

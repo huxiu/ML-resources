@@ -1,4 +1,7 @@
 MIT 弄的风格转换应用:
 http://nightmare.mit.edu
 
+DeepMind WaveNet生成讲话：
+https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+
 

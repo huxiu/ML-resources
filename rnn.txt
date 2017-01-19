@@ -1,0 +1,18 @@
+基础知识：
+lstm介绍：
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+RNN介绍：
+http://blog.csdn.net/heyongluoyao8/article/details/48636251
+tf rnn示例：
+https://my.oschina.net/yilian/blog/665412?fromerr=hzlgWQfA
+一篇好玩有料的RNN介绍：
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+高级玩法：
+图片自动描述：
+http://cs.stanford.edu/people/karpathy/deepimagesent/
+唇语识别：
+https://arxiv.org/pdf/1611.05358v1.pdf
+聊天机器人：
+https://github.com/warmheartli/ChatBotCourse
+

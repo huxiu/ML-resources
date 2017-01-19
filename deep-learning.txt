@@ -1,1 +1,3 @@
 
+一些前沿的东西：
+PixelCNN：https://arxiv.org/pdf/1606.05328v2.pdf

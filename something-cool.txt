@@ -4,4 +4,10 @@ http://nightmare.mit.edu
 DeepMind WaveNet生成讲话：
 https://deepmind.com/blog/wavenet-generative-model-raw-audio/
 
+给图片上色：
+http://tinyclouds.org/colorize/
+https://github.com/pavelgonchar/colornet
 
+google和微软的图像API：
+https://cloud.google.com/vision/
+https://www.microsoft.com/cognitive-services/en-us/sign-up

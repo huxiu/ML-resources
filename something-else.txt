@@ -23,8 +23,8 @@
 7 一个讲解机器学习原理的博客
 http://colah.github.io/
 
-8 音乐处理
-http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
-
-9 tf讲解带例子
+8 tf讲解带例子
 http://blog.topspeedsnail.com/page/2?s=TensorFlow%E7%BB%83%E4%B9%A0
+
+9 16-17总结
+http://mt.sohu.com/20161214/n475909338.shtml

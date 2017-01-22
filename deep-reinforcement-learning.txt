@@ -21,3 +21,6 @@ http://101.96.8.165/www0.cs.ucl.ac.uk/staff/D.Silver/web/Applications_files/nfsp
 
 目前deepmind公开最好的算法：
 https://arxiv.org/pdf/1602.01783.pdf
+
+知乎上比较好的基础课程总结：
+https://zhuanlan.zhihu.com/p/20885568
